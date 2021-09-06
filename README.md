@@ -1,7 +1,6 @@
 # CANT.GET.ENOUGH
-![CantGetEnough](https://user-images.githubusercontent.com/63893110/132252104-15af9dca-56f2-4de1-8015-fa25d6b1d661.png)
+![RESPONSIVE](https://user-images.githubusercontent.com/63893110/132258711-f013dda0-dcb1-4e0f-8781-cff19ab2a4e6.png)
 
-WEBSITE : https://cant-get-enough.netlify.app/
 
 # Description :
 Simple Fun API Based Website To Get Funny Jokes , made with HTML ,CSS ,BOOTSTRAP5 and JavaScript.
