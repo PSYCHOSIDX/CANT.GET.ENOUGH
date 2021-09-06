@@ -87,6 +87,13 @@ box-shadow: inset -12px -12px 33px #5a5a5a,
             margin: 16px;
 }
 
+.info{
+     text-align: center;
+     font-family: 'Montserrat',sans-serif;
+     font-size: 12px;
+     margin: 4px;
+}
+
 
 @media only screen and ( max-width:700px){
 .bg-transperant{
