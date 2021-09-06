@@ -1,0 +1,134 @@
+
+body {
+	background: linear-gradient(-140deg, #ff5100, #fffb00, #ff6600, #ffcfcf);
+	background-size: 400% 400%;
+	animation: gradient 10s ease infinite;
+	height: auto;
+     
+}
+.bun{
+     display: none;
+}
+.bxx{
+margin: 10px;
+}
+         .btn-x{background-image: linear-gradient(to right, #FF4E50 0%, #F9D423  51%, #FF4E50  100%)}
+         .btn-x {
+              text-decoration: none;
+            margin: 10px;
+            padding: 15px 45px;
+            text-align: center;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            border-color: white;
+            display: block;
+            cursor: pointer;
+            margin-left: 30px;
+            justify-self: center;
+            
+          }
+
+          .btn-x:hover {
+            background-position: right center; /* change the direction of the change here */
+            color: #fff;
+            text-decoration: none;
+          }
+        
+.cc{
+     font-size: 18px;
+     color: black;
+     font-weight: 200;
+     margin-top: 15px;
+     text-align: center;
+     
+}
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+.bg-transperant{   
+     backdrop-filter: blur(12px) saturate(200%);
+     -webkit-backdrop-filter: blur(12px) saturate(200%);
+     background-color: rgba(255, 255, 255, 0.45);
+     font-family: 'ZCOOL QingKe HuangYou', cursive;
+     border: 1px solid rgba(209, 213, 219, 0.3);
+    border-bottom: 3px solid white;
+}
+
+.txxt{
+     margin-top: 70px;
+     color: rgba(255, 255, 255, 0.726);
+     font-size: 120px;
+     justify-content: center;
+}
+.imgg{
+     margin-top: -500px;
+     margin-left:440px
+}
+
+.bg-x{
+     border-radius: 30px;
+background: #e0e0e0;
+box-shadow: inset -12px -12px 33px #5a5a5a,
+            inset 12px 12px 33px #ffffff;
+            height: 30vh;
+            justify-content: center;
+            margin: 16px;
+}
+
+
+@media only screen and ( max-width:700px){
+.bg-transperant{
+     width:auto;
+}
+.txxt{
+     font-size: 55px;
+     padding: 10px;
+     
+}
+.imgg{
+     width: 80%;
+     margin: 0px;
+     margin-top:-70px ;
+     margin-left: 45px;
+}
+  .container{
+       overflow: scroll;
+  }
+  .bun{
+       display: block;
+       text-align: center;
+       color: white;
+       text-decoration: white;
+       font-size: 15px;
+  }
+  
+  .bg-x{
+       font-size: 12px;
+       margin-top: 10px;
+       padding: 7px;
+       margin: 10px;
+       border-radius: 16px;
+       height: 30vh;
+       
+  }
+
+  .btn-x{
+       width: 90%;
+       margin: 17px;
+       border-radius: 12px;
+       margin-left: 14px;
+
+  }
+  }
