@@ -151,7 +151,7 @@ box-shadow: inset -12px -12px 33px #5a5a5a,
 
 @media only screen and (min-width :700px )
 {
-.bg-x{ height:40%; width:auto;
+.bg-x{ height:20%; width:auto;
 	padding:9px;}
 .btn-x{
 	margin-left:auto;
@@ -165,12 +165,13 @@ box-shadow: inset -12px -12px 33px #5a5a5a,
 	margin-top:15px;
 	}
 .imgg{
+	margin-top:30px;
      width: 40%;
 	height:40%;
  
 }	
 .txxt{
-	font-size:90px;
+	font-size:70px;
 	margin-top:30px;
 	
 }
