@@ -79,8 +79,8 @@ margin: 10px;
    display:block;
 	margin-left:auto;
 	margin-right:auto;
-	width:52%;
-	margin-top:-420px;
+	width:55%;
+	margin-top:-425px;
 }
 
 .bg-x{
@@ -147,7 +147,7 @@ box-shadow: inset -12px -12px 33px #5a5a5a,
   }
   }
 
-@media only screen and (max-width :800px )
+@media only screen and (max-width :720px )
 {
 .bg-x { height:27vh; width:auto;}
 
