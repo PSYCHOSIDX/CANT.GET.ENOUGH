@@ -78,7 +78,7 @@ margin: 10px;
 .imgg{
      margin-top: -500px;
      margin-left: 194px;
-	padding:5px;
+
      
 }
 
@@ -87,10 +87,10 @@ margin: 10px;
 background: #e0e0e0;
 box-shadow: inset -12px -12px 33px #5a5a5a,
             inset 12px 12px 33px #ffffff;
-            height: 40vh;
+            height: 30vh;
             justify-content: center;
             margin: 16px;
-	width:80%;
+	
 }
 
 .info{
@@ -148,6 +148,6 @@ box-shadow: inset -12px -12px 33px #5a5a5a,
 
 @media only screen and (max-width :600px )
 {
-.bg-x { height:auto; width:auto;}
+.bg-x { height:27vh; width:auto;}
 
 }
