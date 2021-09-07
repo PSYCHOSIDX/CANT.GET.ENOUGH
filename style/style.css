@@ -149,7 +149,7 @@ box-shadow: inset -12px -12px 33px #5a5a5a,
 
 @media only screen and (min-width :700px )
 {
-.bg-x{ height:35vh; width:auto;
+.bg-x{ height:40%; width:auto;
 	padding:9px;}
 .btn-x{
 	margin-left:auto;
