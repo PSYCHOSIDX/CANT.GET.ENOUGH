@@ -70,9 +70,9 @@ margin: 10px;
 }
 
 .txxt{
-     margin-top: 30px;
+     margin-top: 25px;
      color: rgba(255, 255, 255, 0.726);
-     font-size: 80px;
+     font-size: 70px;
      justify-content: center;
 }
 .imgg{
@@ -81,7 +81,7 @@ margin: 10px;
 	margin-right:auto;
 	width:30%;
 	height:20rem;
-	margin-top:-320px;
+	margin-top:-350px;
 }
 
 .bg-x{
