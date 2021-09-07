@@ -28,6 +28,7 @@ margin: 10px;
             cursor: pointer;
             margin-left: 30px;
             justify-self: center;
+		width:50px;
             
           }
 
@@ -82,9 +83,10 @@ margin: 10px;
 background: #e0e0e0;
 box-shadow: inset -12px -12px 33px #5a5a5a,
             inset 12px 12px 33px #ffffff;
-            height: 30vh;
+            height: 40vh;
             justify-content: center;
             margin: 16px;
+	width:80%;
 }
 
 .info{
