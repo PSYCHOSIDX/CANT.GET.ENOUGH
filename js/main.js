@@ -1,5 +1,7 @@
 const button = document.querySelector('.container button');
+
 const jokes = document.querySelector('.container p');
+
 document.addEventListener('DOMContentLoaded', fetchjoke);
 button.addEventListener('click', fetchjoke);
 
@@ -10,6 +12,6 @@ const jokedata = await fetch('https://icanhazdadjoke.com/',{
      }
 });
 
-const joke_obj = await joke_data.json();
-jokes.innerHTML = joke_obj.joke;
+const jokeobj = await jokedata.json();
+jokes.innerHTML = jokeobj.joke;
 }
