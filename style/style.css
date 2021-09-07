@@ -15,7 +15,7 @@ margin: 10px;
          .btn-x{background-image: linear-gradient(to right, #FF4E50 0%, #F9D423  51%, #FF4E50  100%)}
          .btn-x {
 		 
-	    font-size:15px;
+	    font-size:11px;
             text-decoration: none;
             margin: 10px;
             text-align: center;
@@ -41,7 +41,7 @@ margin: 10px;
           }
         
 .cc{
-     font-size: 18px;
+     font-size: 9px;
      color: black;
      font-weight: 200;
      margin-top: 15px;
@@ -99,7 +99,7 @@ box-shadow: inset -12px -12px 33px #5a5a5a,
 .info{
      text-align: center;
      font-family: 'Montserrat',sans-serif;
-     font-size: 12px;
+     font-size: 9px;
      margin: 4px;
 }
 
