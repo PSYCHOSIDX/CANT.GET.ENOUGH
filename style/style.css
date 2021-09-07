@@ -139,3 +139,9 @@ box-shadow: inset -12px -12px 33px #5a5a5a,
 
   }
   }
+
+@media only screen and (max-width :600px )
+{
+.bg-x { height: 30vh; width:auto;}
+
+}
