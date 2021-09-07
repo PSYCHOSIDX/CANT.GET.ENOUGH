@@ -160,12 +160,13 @@ box-shadow: inset -12px -12px 33px #5a5a5a,
 	width:80%;
 	margin-bottom:19px;
 	}
-	
+.container{
+	overflow:hidden;
 .info{
 	margin-top:15px;
 	}
 .imgg{
-	margin-top:30px;
+	margin-top:250px;
      width: 40%;
 	height:40%;
  
