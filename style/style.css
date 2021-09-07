@@ -72,7 +72,7 @@ margin: 10px;
 .txxt{
      margin-top: 70px;
      color: rgba(255, 255, 255, 0.726);
-     font-size: 120px;
+     font-size: 50px;
      justify-content: center;
 }
 .imgg{
@@ -172,8 +172,5 @@ box-shadow: inset -12px -12px 33px #5a5a5a,
 	height:200px;
  
 }	
-.txxt h1{
-	font-size:70px;
-	margin-top:30px;
-	}
+
 }
